@@ -1,5 +1,3 @@
-# Exercise-2
-## Node-RED Flow
 
 [
     {
